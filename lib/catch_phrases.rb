@@ -15,6 +15,6 @@ end
 
 def all_phrases
   mario
-  status
-  warning
+  toadstool
+  link
 end
